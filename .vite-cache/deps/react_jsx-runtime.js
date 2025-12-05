@@ -1,4 +1,4 @@
-import { n as __commonJS, t as require_react } from "./react-KIlw3uuZ.js";
+import { n as __commonJS, t as require_react } from "./react-BCPv9HuA.js";
 
 //#region node_modules/.pnpm/react@19.2.1/node_modules/react/cjs/react-jsx-runtime.development.js
 /**
